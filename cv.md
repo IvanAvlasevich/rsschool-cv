@@ -8,6 +8,7 @@
 ### Discord: ivan-avlasevich(@IvanAvlasevich)
 ***
 **Proactive, extremely motivated, interested in a career path of a frontend developer. Collaborative and decisive. I feel completely comfortable working on various tasks and adaptable to all challenging situations**
+
 ***
 #### Tools & technologies
 
